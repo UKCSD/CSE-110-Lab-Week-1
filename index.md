@@ -16,6 +16,7 @@
 
 Check out the entire Repository here -> https://github.com/UKCSD/CSE-110-Lab-Week-1
 
+## Advice
 
 My advice to all of my fellow CS majors:
 
