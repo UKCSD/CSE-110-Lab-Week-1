@@ -27,8 +27,12 @@ Add the text:
 
 ## 5. ```commit``` the files with the commit message "Update readme file"
 
+![image](https://github.com/UKCSD/CSE-110-Lab-Week-1/assets/147003715/1333e20a-d7e1-454a-bad4-8c8e02397c95)
 
 
+## 6. ```push``` the commit to the remote branch
+
+![image](https://github.com/UKCSD/CSE-110-Lab-Week-1/assets/147003715/68cca7a7-41c8-491c-93b2-a4f48c4e1444)
 
 
 
