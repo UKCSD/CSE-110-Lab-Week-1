@@ -13,6 +13,24 @@ create new ```branch``` step:
 
 ## 3. Add the text: "Your name's User Page to the ```README.md``` file
 
+```checkout``` into new ```branch```:
+
+![image](https://github.com/UKCSD/CSE-110-Lab-Week-1/assets/147003715/77951581-f2b1-4f6c-af77-f421d7395ea2)
+
+Add the text:
+
+![image](https://github.com/UKCSD/CSE-110-Lab-Week-1/assets/147003715/35e709e9-76ec-48f8-9d18-2f34905c4a5c)
+
+## 4. ```add``` the new file to git
+
+![image](https://github.com/UKCSD/CSE-110-Lab-Week-1/assets/147003715/f1ff2132-91e4-4ab0-848c-612e9211b98c)
+
+## 5. ```commit``` the files with the commit message "Update readme file"
+
+
+
+
+
 
 
 
