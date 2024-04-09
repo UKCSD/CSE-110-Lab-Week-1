@@ -14,7 +14,7 @@
 
 ## Repository Link
 
-Check out my [entire Repository here]  (https://github.com/UKCSD/CSE-110-Lab-Week-1)
+Check out my [entire Repository here](https://github.com/UKCSD/CSE-110-Lab-Week-1)
 
 ## Advice
 
